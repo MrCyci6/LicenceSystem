@@ -1,0 +1,16 @@
+{
+  "name": "admin-tool",
+  "version": "1.0.0",
+  "description": "Admin tool of KTOOL",
+  "main": "index.js",
+  "scripts": {
+    "setup": "npm i",
+    "start": "node index.js"
+  },
+  "author": "MrCyci6",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "readline-sync": "^1.4.10"
+  }
+}
